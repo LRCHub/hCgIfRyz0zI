@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "flos",
+  "base_artist": "YuNi",
+  "createdAt": "2026-03-14T16:11:52.560041Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Suscipe Flos Florem",
+      "artist": "Mediaeval Baebes",
+      "has_synced": false,
+      "path": "select/01_Suscipe_Flos_Florem_Mediaeval_Baebes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Suscipe flos florem",
+      "artist": "Mediæval Bæbes",
+      "has_synced": false,
+      "path": "select/02_Suscipe_flos_florem_Mediæval_Bæbes.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "flos (Russian ver.)",
+      "artist": "Sati Akura",
+      "has_synced": true,
+      "path": "select/03_flos_(Russian_ver.)_Sati_Akura.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Floß",
+      "artist": "Dota Kehr",
+      "has_synced": true,
+      "path": "select/04_Floß_Dota_Kehr.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Floß",
+      "artist": "Dota Kehr",
+      "has_synced": false,
+      "path": "select/05_Floß_Dota_Kehr.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FLO’s (demo)",
+      "artist": "ayrtn",
+      "has_synced": false,
+      "path": "select/06_FLO’s_(demo)_ayrtn.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "flos - Replica-edit",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/07_flos_-_Replica-edit_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "flos",
+      "artist": "R Sound Design",
+      "has_synced": true,
+      "path": "select/08_flos_R_Sound_Design.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "flos (Remix)",
+      "artist": "R Sound Design",
+      "has_synced": false,
+      "path": "select/09_flos_(Remix)_R_Sound_Design.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shohra W Flos - شهرة وفلوس (prod. DJ Totti)",
+      "artist": "Meno Zein",
+      "has_synced": true,
+      "path": "select/10_Shohra_W_Flos_-_شهرة_وفلوس_(prod._DJ_Totti)_Meno_Zein.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Flos Obscura",
+      "artist": "Coronatus",
+      "has_synced": true,
+      "path": "select/11_Flos_Obscura_Coronatus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Flos",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/12_Flos_Sou.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "flos",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/13_flos_Sou.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Flos Obscura (Bonus)",
+      "artist": "Coronatus",
+      "has_synced": true,
+      "path": "select/14_Flos_Obscura_(Bonus)_Coronatus.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "flos",
+      "artist": "YuNi",
+      "has_synced": true,
+      "path": "select/15_flos_YuNi.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Floß der Zeit",
+      "artist": "Roban",
+      "has_synced": false,
+      "path": "select/16_Floß_der_Zeit_Roban.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Flos Carmeli",
+      "artist": "The Choir Of Christ Church St Laurence",
+      "has_synced": false,
+      "path": "select/17_Flos_Carmeli_The_Choir_Of_Christ_Church_St_Laurence.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Floß",
+      "artist": "Dota",
+      "has_synced": true,
+      "path": "select/18_Floß_Dota.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "flos",
+      "artist": "YuNi",
+      "has_synced": false,
+      "path": "select/pl_01_flos_YuNi.txt"
+    }
+  ]
+}
